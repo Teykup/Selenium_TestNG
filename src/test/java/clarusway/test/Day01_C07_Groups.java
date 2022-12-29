@@ -26,5 +26,3 @@ public class Day01_C07_Groups {
         public void checkoutTest(){
         }
     }
-
-}
