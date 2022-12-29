@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="groups">
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C08_MultipleAttributes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C07_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C07_Groups.java" afterDir="false" />
+    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="testNG">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C09_AssertionTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672342637142</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="testNG">
+      <created>1672343295359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672343295359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +219,7 @@
     <MESSAGE value="time out" />
     <MESSAGE value="description" />
     <MESSAGE value="groups" />
-    <option name="LAST_COMMIT_MESSAGE" value="groups" />
+    <MESSAGE value="testNG" />
+    <option name="LAST_COMMIT_MESSAGE" value="testNG" />
   </component>
 </project>
