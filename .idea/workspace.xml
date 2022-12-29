@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="enable">
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C05_TimeOut.java" afterDir="false" />
+    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="description">
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C07_Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C08_MultipleAttributes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.Day01_C05_TimeOut">
+  <component name="RunManager" selected="TestNG.Day01_C08_MultipleAttributes">
     <configuration name="Day01_C02_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CWTestNGSelenium" />
       <extension name="coverage">
@@ -117,8 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day01_C08_MultipleAttributes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clarusway.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clarusway.test" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.test.Day01_C08_MultipleAttributes" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Day01_C08_MultipleAttributes" />
         <item itemvalue="TestNG.Day01_C05_TimeOut" />
         <item itemvalue="TestNG.Day01_C03_DependsOn" />
         <item itemvalue="TestNG.Day01_C02_Priority" />
@@ -156,12 +175,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672340337267</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="time out">
+      <created>1672340837264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672340837265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="description">
+      <created>1672340959462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672340959462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dependsonmethod" />
     <MESSAGE value="enable" />
-    <option name="LAST_COMMIT_MESSAGE" value="enable" />
+    <MESSAGE value="time out" />
+    <MESSAGE value="description" />
+    <option name="LAST_COMMIT_MESSAGE" value="description" />
   </component>
 </project>
