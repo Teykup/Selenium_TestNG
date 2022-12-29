@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="" />
+    <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="dependsonmethod" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +115,18 @@
       <option name="presentableId" value="Default" />
       <updated>1672335820455</updated>
     </task>
+    <task id="LOCAL-00001" summary="dependsonmethod">
+      <created>1672340023452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672340023452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dependsonmethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependsonmethod" />
   </component>
 </project>
