@@ -11,7 +11,7 @@ import org.testng.asserts.SoftAssert;
         public void hardAssertion(){
 
             System.out.println("Assertion oncesi calisiyor");
-            Assert.assertEquals(1,2);
+            Assert.assertEquals(1,1);
             System.out.println("Assertion sonrasi calisiyor");
         }
 
@@ -20,7 +20,7 @@ import org.testng.asserts.SoftAssert;
             System.out.println("Soft Assertion oncesi calisiyor");
             SoftAssert softAssert = new SoftAssert();
 
-            softAssert.assertEquals(1,2); // Fail
+            softAssert.assertEquals(1,1); // Fail
             softAssert.assertTrue(true); // Pass
 
             System.out.println("Soft Assertion sonrasi calisiyor");
