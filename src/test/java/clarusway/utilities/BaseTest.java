@@ -11,9 +11,8 @@ import java.time.Duration;
 
 public abstract class BaseTest {
 
-    protected WebDriver driver;
-
-    protected Actions actions;
+    public WebDriver driver;
+    public Actions actions;
 
     @BeforeMethod
     public void setup(){
@@ -27,6 +26,6 @@ public abstract class BaseTest {
 
     @AfterMethod
     public void tearDown(){
-
+    driver.quit();
     }
 }
