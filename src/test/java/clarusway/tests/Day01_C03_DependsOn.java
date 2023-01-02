@@ -1,6 +1,5 @@
-package clarusway.test;
+package clarusway.tests;
 
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Day01_C03_DependsOn {
