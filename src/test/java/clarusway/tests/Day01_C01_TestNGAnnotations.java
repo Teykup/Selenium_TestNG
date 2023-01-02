@@ -1,4 +1,4 @@
-package clarusway.test;
+package clarusway.tests;
 
 import org.testng.annotations.*;
 
