@@ -48,7 +48,7 @@
                     <include name="softAssertion"/>
                 </methods>
             </class>
-            <class name="clarusway.tests.HW_dependsOn">
+            <class name="clarusway.tests.HW.HW_dependsOn">
                 <methods>
                     <include name="facebookTest"/>
                 </methods>

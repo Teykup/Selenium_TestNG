@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="testNG">
-      <change afterPath="$PROJECT_DIR$/XML/Day03_C06_CrossBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML/Day04_C01_ParallelTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML/Day04_C03_ParallelTestDataProvider.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C01_TestNGXML_Groups.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C02_Parameters.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C03_ParametersExample.java" afterDir="false" />
@@ -17,16 +18,16 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C07_CrossBrowserTestExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C03_DataProviderClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C04_DataProviderClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_hardAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_softAssert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/BaseCrossBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day04_C01_ParallelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day04_C02_ParallelTestAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day04_C03_ParallelTestDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C06_Description.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C06_Description.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C07_Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C07_Groups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C08_MultipleAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C08_MultipleAttributes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/Day01_C09_AssertionTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day01_C09_AssertionTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/test/HW_dependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_dependsOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XML/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XML/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_dependsOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/HW_dependsOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_hardAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/HW_hardAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_softAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/HW_softAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_softAssert2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/HW_softAssert2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW_softHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/HW_softHard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,18 +83,29 @@
       <recent name="C:\Users\Pc\IdeaProjects\CWTestNGSelenium\src\XML" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day03_C07_CrossBrowserTestExample.amazonTest">
-    <configuration name="Day03_C01_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_C01_ParallelTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CWTestNGSelenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/Day04_C01_ParallelTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02_C04_TestNGParametersSeleniumExample.parametersTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CWTestNGSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clarusway.tests.Day03_dataProvider.*" />
+          <option name="PATTERN" value="clarusway.tests.HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="clarusway.tests" />
-      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day03_C01_DataProvider" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="clarusway.tests.Day02_C04_TestNGParametersSeleniumExample" />
+      <option name="METHOD_NAME" value="parametersTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -138,7 +150,7 @@
       <module name="CWTestNGSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clarusway.tests.*" />
+          <option name="PATTERN" value="clarusway.tests.HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,31 +164,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_softAssert2.softtest2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="CWTestNGSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="clarusway.tests.Day03_dataProvider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="clarusway.tests" />
-      <option name="MAIN_CLASS_NAME" value="clarusway.tests.HW_softAssert2" />
-      <option name="METHOD_NAME" value="softtest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Day02_C04_TestNGParametersSeleniumExample.parametersTest" />
+        <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_C01_ParallelTest.xml" />
         <item itemvalue="TestNG.Day03_C07_CrossBrowserTestExample.amazonTest" />
         <item itemvalue="TestNG.Day03_C04_DataProviderClassTest" />
         <item itemvalue="TestNG.Day03_C02_DataProvider" />
-        <item itemvalue="TestNG.Day03_C01_DataProvider" />
-        <item itemvalue="TestNG.HW_softAssert2.softtest2" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +358,70 @@
       <option name="project" value="LOCAL" />
       <updated>1672684153545</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="testNG">
+      <created>1672767607283</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767607283</updated>
+    </task>
+    <task id="LOCAL-00027" summary="testNG">
+      <created>1672767625417</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767625417</updated>
+    </task>
+    <task id="LOCAL-00028" summary="testNG">
+      <created>1672767640188</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767640188</updated>
+    </task>
+    <task id="LOCAL-00029" summary="testNG">
+      <created>1672767652879</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767652879</updated>
+    </task>
+    <task id="LOCAL-00030" summary="testNG">
+      <created>1672767674286</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767674286</updated>
+    </task>
+    <task id="LOCAL-00031" summary="testNG">
+      <created>1672767695885</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767695885</updated>
+    </task>
+    <task id="LOCAL-00032" summary="testNG">
+      <created>1672767708790</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767708790</updated>
+    </task>
+    <task id="LOCAL-00033" summary="testNG">
+      <created>1672767723029</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767723030</updated>
+    </task>
+    <task id="LOCAL-00034" summary="testNG">
+      <created>1672767738267</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1672767738268</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

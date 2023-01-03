@@ -1,4 +1,4 @@
-package clarusway.tests;
+package clarusway.tests.HW;
 
 import clarusway.utilities.BaseTest;
 import org.openqa.selenium.By;
