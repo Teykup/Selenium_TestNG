@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="testNG">
-      <change afterPath="$PROJECT_DIR$/XML/Day04_ParallelCrossBrowserTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XML/Day04_ParallelTestClasses.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C01_TestNGXML_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C02_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C03_ParametersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day02_C04_TestNGParametersSeleniumExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C01_DataProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C02_DataProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C05_dataProviderExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C06_CrossBrowser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C03_DataProviderClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C04_DataProviderClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/HW/Task1_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day05_C01_HTMLReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/BaseTestReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -65,6 +61,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="clarusway.utilities" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Pc\IdeaProjects\CWTestNGSelenium\XML" />
       <recent name="C:\Users\Pc\IdeaProjects\CWTestNGSelenium" />
@@ -448,7 +447,70 @@
       <option name="project" value="LOCAL" />
       <updated>1672771864175</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="testNG">
+      <created>1672846482538</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846482538</updated>
+    </task>
+    <task id="LOCAL-00042" summary="testNG">
+      <created>1672846498256</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846498256</updated>
+    </task>
+    <task id="LOCAL-00043" summary="testNG">
+      <created>1672846515993</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846515993</updated>
+    </task>
+    <task id="LOCAL-00044" summary="testNG">
+      <created>1672846536643</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846536643</updated>
+    </task>
+    <task id="LOCAL-00045" summary="testNG">
+      <created>1672846548604</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846548604</updated>
+    </task>
+    <task id="LOCAL-00046" summary="testNG">
+      <created>1672846558958</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846558958</updated>
+    </task>
+    <task id="LOCAL-00047" summary="testNG">
+      <created>1672846574876</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846574876</updated>
+    </task>
+    <task id="LOCAL-00048" summary="testNG">
+      <created>1672846750152</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846750152</updated>
+    </task>
+    <task id="LOCAL-00049" summary="testNG">
+      <created>1672846873784</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1672846873784</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
