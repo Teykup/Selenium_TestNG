@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="testNG">
+      <change afterPath="$PROJECT_DIR$/XML/Day05_Listeners.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C01_DataProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C02_DataProvider.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C05_dataProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C06_CrossBrowser.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C03_DataProviderClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C04_DataProviderClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day05_C01_HTMLReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day05_C02_ITestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day05_C03_UseListener.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/BaseTestReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/ReusableMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TestNG Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -56,7 +56,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/CWTestNGSelenium",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day05_Listeners.xml",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -73,11 +75,17 @@
       <recent name="C:\Users\Pc\IdeaProjects\CWTestNGSelenium\.idea\XML" />
       <recent name="C:\Users\Pc\IdeaProjects\CWTestNGSelenium\src\XML" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="clarusway.tests" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_C01_ParallelTest.xml">
-    <configuration name="C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_C01_ParallelTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day05_Listeners.xml">
+    <configuration name="C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_ParallelTestClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CWTestNGSelenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/Day04_C01_ParallelTest.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/Day04_ParallelTestClasses.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -85,10 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_ParallelTestClasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day05_Listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="CWTestNGSelenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/Day04_ParallelTestClasses.xml" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/XML/Day05_Listeners.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -148,11 +165,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day05_Listeners.xml" />
+      <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_ParallelTestClasses.xml" />
+      <item itemvalue="TestNG.Day02_C04_TestNGParametersSeleniumExample.parametersTest" />
+      <item itemvalue="TestNG.Day03_C04_DataProviderClassTest" />
+      <item itemvalue="TestNG.Day03_C07_CrossBrowserTestExample.amazonTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day05_Listeners.xml" />
         <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_ParallelTestClasses.xml" />
         <item itemvalue="TestNG.Day02_C04_TestNGParametersSeleniumExample.parametersTest" />
-        <item itemvalue="TestNG.C:/Users/Pc/IdeaProjects/CWTestNGSelenium/XML/Day04_C01_ParallelTest.xml" />
         <item itemvalue="TestNG.Day03_C07_CrossBrowserTestExample.amazonTest" />
         <item itemvalue="TestNG.Day03_C04_DataProviderClassTest" />
       </list>
@@ -166,34 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672335820455</updated>
-    </task>
-    <task id="LOCAL-00001" summary="dependsonmethod">
-      <created>1672340023452</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672340023452</updated>
-    </task>
-    <task id="LOCAL-00002" summary="dependsonmethod">
-      <created>1672340263189</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1672340263189</updated>
-    </task>
-    <task id="LOCAL-00003" summary="enable">
-      <created>1672340337267</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1672340337267</updated>
-    </task>
-    <task id="LOCAL-00004" summary="time out">
-      <created>1672340837264</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1672340837265</updated>
     </task>
     <task id="LOCAL-00005" summary="description">
       <created>1672340959462</created>
@@ -510,7 +506,35 @@
       <option name="project" value="LOCAL" />
       <updated>1672846873784</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="testNG">
+      <created>1672858468919</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858468919</updated>
+    </task>
+    <task id="LOCAL-00051" summary="testNG">
+      <created>1672858479869</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858479869</updated>
+    </task>
+    <task id="LOCAL-00052" summary="testNG">
+      <created>1672858489743</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858489744</updated>
+    </task>
+    <task id="LOCAL-00053" summary="testNG">
+      <created>1672858502811</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1672858502811</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
