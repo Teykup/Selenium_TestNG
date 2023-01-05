@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f07bed1-5634-4b39-9a7f-88c53f040dc4" name="Changes" comment="testNG">
-      <change afterPath="$PROJECT_DIR$/XML/Day05_IReporter.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/resource/testdata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C01_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C02_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_C05_dataProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C03_DataProviderClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day03_dataProvider/Day03_C04_DataProviderClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day06_C01_ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/BaseTestReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day06_C01_ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/tests/Day06_C02_JSUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/ExcelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/MyReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Listener Test Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clarusway/utilities/JSUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -190,62 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672335820455</updated>
-    </task>
-    <task id="LOCAL-00009" summary="testNG">
-      <created>1672343591229</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1672343591229</updated>
-    </task>
-    <task id="LOCAL-00010" summary="testNG">
-      <created>1672410876649</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1672410876649</updated>
-    </task>
-    <task id="LOCAL-00011" summary="testNG">
-      <created>1672643116148</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643116148</updated>
-    </task>
-    <task id="LOCAL-00012" summary="testNG">
-      <created>1672643133160</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643133160</updated>
-    </task>
-    <task id="LOCAL-00013" summary="testNG">
-      <created>1672643151769</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643151769</updated>
-    </task>
-    <task id="LOCAL-00014" summary="testNG">
-      <created>1672643167178</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643167178</updated>
-    </task>
-    <task id="LOCAL-00015" summary="testNG">
-      <created>1672643199667</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643199667</updated>
-    </task>
-    <task id="LOCAL-00016" summary="testNG">
-      <created>1672643220372</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1672643220372</updated>
     </task>
     <task id="LOCAL-00017" summary="testNG">
       <created>1672643231914</created>
@@ -534,7 +469,63 @@
       <option name="project" value="LOCAL" />
       <updated>1672861176998</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="testNG">
+      <created>1672942247992</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942247992</updated>
+    </task>
+    <task id="LOCAL-00059" summary="testNG">
+      <created>1672942283163</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942283163</updated>
+    </task>
+    <task id="LOCAL-00060" summary="testNG">
+      <created>1672942294673</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942294673</updated>
+    </task>
+    <task id="LOCAL-00061" summary="testNG">
+      <created>1672942305553</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942305553</updated>
+    </task>
+    <task id="LOCAL-00062" summary="testNG">
+      <created>1672942316368</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942316368</updated>
+    </task>
+    <task id="LOCAL-00063" summary="testNG">
+      <created>1672942328926</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942328926</updated>
+    </task>
+    <task id="LOCAL-00064" summary="testNG">
+      <created>1672942359019</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942359019</updated>
+    </task>
+    <task id="LOCAL-00065" summary="testNG">
+      <created>1672942379360</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1672942379360</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
